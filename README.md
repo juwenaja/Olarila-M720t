@@ -58,8 +58,8 @@ Salin folder `EFI` ke partisi `EFI` pada USB installer macOS kamu.
 -igfxvesa
 ```
 
-Ini bisa dilakukan dengan mengedit file `config.split` terlebih dahulu.  
-### Edit config.split(https://github.com/juwenaja/Olarila-M720t/blob/main/EFI/OC/config.split)
+Ini bisa dilakukan dengan mengedit file `config.plist` terlebih dahulu.  
+### Edit [config.plist](https://github.com/juwenaja/Olarila-M720t/blob/main/EFI/OC/config.plist)
 
 - Setelah proses instalasi selesai, kamu bisa menghapus boot-arg tersebut dan menggunakan konfigurasi default.
 - Untuk file image macOS, silakan unduh dari situs resmi Apple atau referensi dari Olarila.
